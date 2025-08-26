@@ -15,7 +15,7 @@ Dataset
 
 ---
 
-## ⚙️ Tecnologias
+## Tecnologias
 
 - Python 3.x  
 - TensorFlow 2.x  
